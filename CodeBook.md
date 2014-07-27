@@ -29,7 +29,7 @@ The result is then saved to CPANSWERS.txt in the working directory using `write.
 
 The recommended method for loading the data is `read.table("CPANSWER.txt")`.
 
-# Table Format - Variables
+# Output Format - Variables
 
 * Subject: The number of the subject in the test (1 to 30)
 * Activity: The name of the activity being performed
